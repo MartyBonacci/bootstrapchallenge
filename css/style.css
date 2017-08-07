@@ -22,6 +22,6 @@ header {
 	margin-bottom: 3em;
 }
 
-.row:nth-last-of-type(1){
+.row:nth-last-of-type(2){
 	background-color: lightgray;
 }
