@@ -21,3 +21,7 @@ header {
 	margin-top: 3em;
 	margin-bottom: 3em;
 }
+
+.row:nth-last-of-type(1){
+	background-color: lightgray;
+}
