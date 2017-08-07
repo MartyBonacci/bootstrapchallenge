@@ -26,6 +26,19 @@ header {
 	background-color: lightgray;
 }
 
-.col-md-3, .col-md-9{
+.col-md-3{
 	padding: 4em 4em 4em 4em;
+}
+
+.col-md-9{}
+
+.col-md-3 p {
+	border-radius: 1em;
+	border-color: black;
+	border-width: 1em;
+	background-color: lightgray;
+	padding: 1em;
+	align-content: center;
+	margin-top: 2em;
+	margin-bottom: 2em;
 }
