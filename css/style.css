@@ -3,6 +3,12 @@
 * @author Marty Bonacci
 ******************************************************/
 
+
+.container{
+	width: 90%;
+}
+
+
 footer {
 	color: lightgray;
 	background-color: black;
@@ -24,13 +30,22 @@ header {
 
 .row:nth-last-of-type(2){
 	background-color: lightgray;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 
-.col-md-3{
-	padding: 4em 4em 4em 4em;
+
+
+.row:nth-last-of-type(1) .col-md-3{
+ 	padding: 4em 4em 4em 4em;
 }
 
 .col-md-9{}
+
+
+
+
+
 
 .col-md-3 p {
 	border-radius: 1em;
@@ -42,3 +57,9 @@ header {
 	margin-top: 2em;
 	margin-bottom: 2em;
 }
+
+/*
+.row:nth-last-of-type(1){
+	background-color: yellow;
+}
+*/
