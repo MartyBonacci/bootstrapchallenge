@@ -45,7 +45,7 @@
 	<body class="sfooter">
 
 		<div class="sfooter-content">
-			<div class="container">
+			<div class="container-fluid">
 				<header>
 					<div class="row">
 						<nav class="navbar navbar-default">
@@ -83,60 +83,64 @@
 					</div>
 				</div>
 			</div>
+				<div class="row">
+
+					<div class="col-md-3">
+						<img src="images/placeholder-image600x600.png" class="img-responsive" alt="placeholder">
+					</div>
+					<div class="col-md-9">
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+					</div>
+				</div>
+			<div class="container">
+
 
 			<div class="row">
 				<div class="col-md-3">
-					<img src="images/placeholder-image600x600.png" class="img-responsive" alt="placeholder">
-				</div>
-				<div class="col-md-9">
+					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
 						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
 						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 
 				</div>
-			</div>
+				<div class="col-md-3">
+					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3">
-						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+				</div>
+				<div class="col-md-3">
+					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 
-					</div>
-					<div class="col-md-3">
-						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
-
-					</div>
-					<div class="col-md-3">
-						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
-
-					</div>
-					<div class="col-md-3">
-						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
-
-					</div>
-
+				</div>
+				<div class="col-md-3">
+					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 
 				</div>
 
 
 			</div>
+
+
+		</div>
 		</div>
 
 		<footer>
