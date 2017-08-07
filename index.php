@@ -99,7 +99,7 @@
 							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 					</div>
 				</div>
-			<div class="container">
+			<div class="container-fluid">
 
 
 			<div class="row">
