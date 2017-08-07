@@ -41,37 +41,31 @@
 		<!-- Custom CSS Goes Here -->
 
 	</head>
-
 	<body class="sfooter">
-
 		<div class="sfooter-content">
 			<div class="container">
 				<header>
 					<div class="row">
 						<nav class="navbar navbar-default">
-
-								<!-- Brand and toggle get grouped for better mobile display -->
-								<div class="navbar-header">
-									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-											  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-									</button>
-									<a class="navbar-brand" href="#">Brand</a>
-								</div>
-
-								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-									<ul class="nav navbar-nav navbar-right">
-										<li><a href="#">Link1</a></li>
-										<li><a href="#">Link2</a></li>
-										<li><a href="#">Link3</a></li>
-										<li><a href="#">Link4</a></li>
-									</ul>
-								</div><!-- /.navbar-collapse -->
-
-
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+										  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<a class="navbar-brand" href="#">Brand</a>
+							</div>
+							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav navbar-right">
+									<li><a href="#">Link1</a></li>
+									<li><a href="#">Link2</a></li>
+									<li><a href="#">Link3</a></li>
+									<li><a href="#">Link4</a></li>
+								</ul>
+							</div><!-- /.navbar-collapse -->
 						</nav>
 					</div>
 				</header>
@@ -83,58 +77,53 @@
 					</div>
 				</div>
 			</div>
-				<div class="row">
-
-					<div class="col-md-3">
-						<img src="images/placeholder-image600x600.png" class="img-responsive" alt="placeholder">
-					</div>
-					<div class="col-md-9">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-							dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p><a href="https://github.com/rlewis2892/bootstrap-challenge-answer">link to answer</a>
-					</div>
-				</div>
+			<section>
 			<div class="container">
-
-
 			<div class="row">
 				<div class="col-md-3">
-					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
-
+					<img src="images/placeholder-image600x600.png" class="img-responsive center-block" alt="placeholder">
 				</div>
-				<div class="col-md-3">
-					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
+				<div class="col-md-9">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
-
-				</div>
-				<div class="col-md-3">
-					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
-
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p><a
+						href="https://github.com/rlewis2892/bootstrap-challenge-answer">link to answer</a>
 				</div>
-				<div class="col-md-3">
-					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
-
-				</div>
-
-
 			</div>
+			</div>
+			</section>
 
 
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle center-block" alt="placeholder">
+						<p class="well">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
+					</div>
+					<div class="col-md-3">
+						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle center-block" alt="placeholder">
+						<p class="well">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
+					</div>
+					<div class="col-md-3">
+						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle center-block" alt="placeholder">
+						<p class="well">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
+					</div>
+					<div class="col-md-3">
+						<img src="images/placeholder-image600x600.png" class="img-responsive img-circle center-block" alt="placeholder">
+						<p class="well">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+							totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
+					</div>
+				</div>
+			</div>
 		</div>
-		</div>
-
 		<footer>
 			<p>bla bla bla bla bla bla</p>
 		</footer>
