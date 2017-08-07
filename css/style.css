@@ -3,8 +3,9 @@
 * @author Marty Bonacci
 ******************************************************/
 
-footer{
+footer {
 	color: lightgray;
 	background-color: black;
-text-align: center;
+	text-align: center;
+	font-style: italic;
 }
