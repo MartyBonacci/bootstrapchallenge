@@ -45,11 +45,11 @@
 	<body class="sfooter">
 
 		<div class="sfooter-content">
-			<div class="container-fluid">
+			<div class="container">
 				<header>
 					<div class="row">
 						<nav class="navbar navbar-default">
-							<div class="container-fluid">
+
 								<!-- Brand and toggle get grouped for better mobile display -->
 								<div class="navbar-header">
 									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
@@ -71,7 +71,7 @@
 									</ul>
 								</div><!-- /.navbar-collapse -->
 
-							</div><!-- /.container-fluid -->
+
 						</nav>
 					</div>
 				</header>
@@ -99,40 +99,32 @@
 							sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p><a href="https://github.com/rlewis2892/bootstrap-challenge-answer">link to answer</a>
 					</div>
 				</div>
-			<div class="container-fluid">
+			<div class="container">
 
 
 			<div class="row">
 				<div class="col-md-3">
 					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
 
 				</div>
 				<div class="col-md-3">
 					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
 
 				</div>
 				<div class="col-md-3">
 					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
 
 				</div>
 				<div class="col-md-3">
 					<img src="images/placeholder-image600x600.png" class="img-responsive img-circle" alt="placeholder">
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-						dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt?</p>
+						totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
 
 				</div>
 
